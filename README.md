@@ -66,7 +66,7 @@ Honestly, I just thought it would be funny to make Chrome Dino in HolyC.
 This is a small experimental project, not an attempt to master the language *that's why i mostly used chatGPT to do it*.
 
 
-## 📜 Credits
+## Credits
 
 - Inspired by Google's Chrome Dinosaur game.
 - Created by [DeltaDev310](https://github.com/DeltaDev310).
